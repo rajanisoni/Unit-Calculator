@@ -6,7 +6,6 @@ Feel free to contribute/ make suggestion /review this project.
 
 <div text-align ="center">
     <img src="/Screenshot.jpg" width="400px"/> 
-     <img src="/Screenshot2.jpg" width="400px"/> 
 </div>
 
 ## project link-- <a>https://sage-stardust-167e0f.netlify.app</a>
